@@ -11,7 +11,7 @@
 
 <hr></hr>
 
-![Languages](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20%20-orange)
+![Languages](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20&%20Technologies-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
