@@ -1,6 +1,6 @@
 <div align="center"> <h1> Hi there, I'm Mudassir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1><br>
 <img src="dev-working_rounded.gif" href="https://github.com/mudassirahmad" alt="CoDiNg RocKs"  width="550" align="center" /><br> 
-<h3> ML Engineer | Software Developer | Entrepreneur </h3>
+<h3> Data Scientist | Machine Learning Engineer | Data Analyst </h3>
 <br>
 
 
@@ -15,11 +15,8 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=black)
@@ -30,30 +27,37 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-FFD43B?style=flat&logo=Jupyter&logoColor=darkgreen)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 <img align="right" alt="GIF" src="coderman.gif" width="350" height="200" />
 
 ### Talking About Personal Stuff
 
-- 🙌 I'm currently open to: **Software Engineering | Data Science | ML Engineer** Roles<br>
-- 🔭 I’m currently working on **NLTK** <br>
-- ✨ I'm currently enhancing **Machine Learning | Data Analyzing | Automations** Skills<br>
+A guy who accidentally landed in the field of Data Science and never looked back…
+
+Now loves playing with data and uncovering hidden insights through statistical and machine-learning algorithms that drive business success.
+
+From inception to execution, I have successfully developed AI solutions that tackle complex problems using cutting-edge techniques such as Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Speech analysis.
+
+I’ve got the skills how to turn overwhelming data into actionable insights that will make your head spin (in a good way).
+
+Plus, I'm always looking for new challenges, so bring it on!
+
+- 🙌 I'm currently open to: **Data Science | ML Engineer** Roles<br>
+- 🔭 I’m currently doing Masters in **Data Science** <br>
 - ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories**<br>
 
 <br><br>
 <div align="center" >
 
 
-[![](https://raw.githubusercontent.com/mudassirahmad/profilesummarycards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mudassirahmad/profilesummarycards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/mudassirahmad/profilesummarycards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mudassirahmad/profilesummarycards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mudassirahmad/profilesummarycards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <details>
@@ -75,16 +79,5 @@
  <a href="https://www.linkedin.com/in/mudassir-ahmed-se/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.twitter.com//98_20xx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/_mudassir.__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/mudassiahmed998">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
 </div>
-
